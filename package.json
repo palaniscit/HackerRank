@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/palaniscit/HackerRank/issues"
   },
-  "homepage": "https://github.com/palaniscit/HackerRank#readme"
+  "homepage": "https://github.com/palaniscit/HackerRank#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
 }
